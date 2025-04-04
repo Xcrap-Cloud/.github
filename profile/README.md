@@ -6,4 +6,4 @@ This project also has a SaaS platform called **[Xcrap Cloud](https://xcrap.cloud
 
 All our projects are open source and licensed under the MIT license, contribute with us!
 
-> March, 2025
+> Marcuth, 2025
