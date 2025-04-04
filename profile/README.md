@@ -1,9 +1,9 @@
 # 🕷️ Xcrap Cloud
 
-Xcrap Cloud é um projeto ambicioso de Web Scraping que busca resolver problemas de arquitetura em web scrapers e crawlers. Nossa stack principal é composta por TypeScript e Node.js.
+Xcrap Cloud is an ambitious Web Scraping project that seeks to solve architectural problems in web scrapers and crawlers. Our main stack is composed of TypeScript and Node.js.
 
-Este projeto também conta com uma plataforma SaaS chamada **[Xcrap Cloud](https://xcrap.cloud)**, nós possibilitamos que nossos usuários criem scrapers definindo modelos de parsing e transformation que servem para extrair e transformar dados. Oferecemos esse serviço via web site e via API REST.
+This project also has a SaaS platform called **[Xcrap Cloud](https://xcrap.cloud)**, where we enable our users to create scrapers by defining analysis and transformation models that serve to extract and transform data. We offer this service via website and REST API.
 
-Todos os nossos projetos são open-source e licenciados com a licença MIT, contribua conosco!
+All our projects are open source and licensed under the MIT license, contribute with us!
 
-> Marcuth, 2025
+> March, 2025
