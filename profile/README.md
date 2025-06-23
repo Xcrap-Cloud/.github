@@ -1,4 +1,8 @@
-# 🕷️ Xcrap Cloud
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a099ace5-87df-4101-b1b4-a6a47f8371af">
+</div>
+<br>
+<br>
 
 Xcrap Cloud is an ambitious Web Scraping project that seeks to solve architectural problems in web scrapers and crawlers. Our main stack is composed of TypeScript and Node.js.
 
